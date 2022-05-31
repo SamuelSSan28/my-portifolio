@@ -33,7 +33,7 @@ export default function Greeting(props) {
                 <span style={{ color: theme.accentColor }}>
                   {greeting.full_name}
                 </span>
-                {greeting.subTitle}
+                {greeting.subTitle}. {" "}
               </p>
               <SocialMedia />
               <div className="portfolio-repo-btn-div">
