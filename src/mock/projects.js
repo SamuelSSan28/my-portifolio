@@ -1,5 +1,29 @@
 const projects = {
     data: [
+         {
+        id: "55",
+        name: "athena-landing-page",
+        url: "https://athena-landing-page.vercel.app",
+        description: "It is a landing page for a plataform that aims to be a trustworthy, reward-driven, platform for goods and service exchanges",
+        languages: [
+          {
+            name: "JavaScipt",
+            iconifyClass: "logos-javascript",
+          }, 
+          {
+            name: "HTML5",
+            iconifyClass: "vscode-icons:file-type-html",
+          },
+          {
+            name: "CSS3",
+            iconifyClass: "vscode-icons:file-type-css",
+          },
+          {
+            name: "React",
+            iconifyClass: "logos-react",
+          }
+        ],
+      },
       {
         id: "0",
         name: "Camara_bot",
