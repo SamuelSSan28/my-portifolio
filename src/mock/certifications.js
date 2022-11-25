@@ -2,6 +2,27 @@
 const certifications = {
     certifications: [
       {
+        title: "MongoDB 2022 Complete Course [NoSQL from Basic to Advanced!]",
+        subtitle: "Udemy",
+        logo_path: "mongo.png",
+        // color_code: "#2AAFED",
+        color_code: "#E2405F",
+      },
+      {
+        title: "Scrum Fundamentals",
+        subtitle: "Project Management Institute",
+        logo_path: "mongo.png",
+        // color_code: "#2AAFED",
+        color_code: "#ffbfae",
+      },
+      {
+        title: "Advanced Scrum Techniques",
+        subtitle: "Project Management Institute",
+        logo_path: "mongo.png",
+        // color_code: "#2AAFED",
+        color_code: "#b190b0",
+      },
+      {
         title: "ETSE | EcoTrust Security Essential",
         subtitle: "Eco IT",
         logo_path: "mongo.png",

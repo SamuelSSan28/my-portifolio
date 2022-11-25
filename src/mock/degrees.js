@@ -1,6 +1,20 @@
 const degrees = {
     degrees: [
       {
+        title: "Rocketseat",
+        subtitle: "Ignite , Software Development",
+        logo_path: "ssec.png",
+        alt_name: "SSEC",
+        duration: "2022 - 2024",
+        descriptions: [
+          "⚡ Ignite is an acceleration program for devs, focused on preparing complete professionals for the market, training technical and behavioral skills in an intensive and practical way.",
+           "⚡ It is divided into non-dependent knowledge tracks where we delve into a specific technology - these tracks being NodeJS, ReactJS and React Native.",
+          // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
+          // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        ],
+        website_link: null,
+      },
+      {
         title: "UFPI - Federal University of Piaui",
         subtitle: "Bachelor in Computer Science",
         logo_path: "ssec.png",

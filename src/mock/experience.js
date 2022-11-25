@@ -10,10 +10,23 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Full Stack Engineer",
+          subtitle: "Ahgora",
+          alt_name: "Ahgora",
+          duration: "2022 - Present",
+          descriptions: [
+            "",
+            "⚡ Technologies: Node, React, PHP",
+            // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
+            // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+          ],
+          website_link: null,
+        },
+        {
           title: "Software Developer Intern",
           subtitle: "IntuitiveCare",
-          alt_name: "SSEC",
-          duration: "2021 - Present",
+          alt_name: "IntuitiveCare",
+          duration: "2021 - 2022",
           descriptions: [
             "⚡ Backend developer.I work in the development and maintenance of parser of files of different formats (PDF, CSV, TXT, JSON, XML) and in the load of the parsed information to the database.",
             "⚡ Technologies: Python, a little Java and a loooot of regex",
@@ -26,7 +39,7 @@ const experience = {
           title: "Software Developer",
           subtitle: "Freelancer",
           logo_path: "ssgandhy.png",
-          alt_name: "SSGC",
+          alt_name: "Freelancer2",
           duration: "2020 - 2022",
           descriptions: [
             "⚡ Application for a building materials store in the city of Teresina-PI. In addition to the app, a web system was developed to manage stock, orders, promotions and discount coupons, etc.",

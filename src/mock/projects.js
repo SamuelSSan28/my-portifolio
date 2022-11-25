@@ -28,7 +28,7 @@ const projects = {
         id: "59",
         name: "E-motion",
         url: "https://github.com/ES2-UFPI/e-motion",
-        description: "E-motion is an application created to facilitate monitoring and interaction between psychologists and clients. It is possible to make emotional records of situations experienced by the client: what feelings are involved, contexts, causes and consequences. All records can be accessed by the psychologist responsible for the client.",
+        description: "E-motion is an application created to facilitate monitoring and interaction between psychologists and clients.",
         languages: [
                    {
             name: "NodeJS",
