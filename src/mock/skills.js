@@ -9,7 +9,6 @@ const skills = {
           "⚡ Developing mobile applications using React Native",
           "⚡ Creating application backend in Node, Express",
           "⚡ Integration of third party services such as AWS / Digital Ocean",
-          "⚡ Integration of third party services such as AWS / Digital Ocean"
         ],
         softwareSkills: [
           {
